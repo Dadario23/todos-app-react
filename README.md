@@ -12,7 +12,7 @@ todos-app-react is a simple todo list web app built with React. It allows users 
 ## Installation
 
 1. Clone this repository to your local machine:
-   `git clone https://github.com/yourusername/todos-app-react.git`
+   `git clone https://github.com/Dadario23/todos-app-react.git`
 
 2. Navigate to the project directory:
    `cd todos-app-react`
