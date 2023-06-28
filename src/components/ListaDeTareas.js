@@ -15,10 +15,6 @@ export default function ListaDeTareas() {
     }
   };
 
-  /* const editarTarea = (tarea) => {
-    const tareasActualizadas = tareas.filter((tarea) => tarea.id !== id);
-  }; */
-
   const eliminarTarea = (id) => {
     const tareasActualizadas = tareas.filter((tarea) => tarea.id !== id);
     setTareas(tareasActualizadas);
